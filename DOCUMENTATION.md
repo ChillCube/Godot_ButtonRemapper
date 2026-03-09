@@ -7,6 +7,7 @@ This addon is used for remapping buttons. It can be used for allowing the player
 
 | Source | Reference | Repository |
 | :--- | :--- | :--- |
+| Manual | [`Godot_SpriteBasedSmoothMenuButton2D`](https://github.com/ChillCube/Godot_SpriteBasedSmoothMenuButton2D/blob/main/DOCUMENTATION.md) | [Repo](https://github.com/ChillCube/Godot_SpriteBasedSmoothMenuButton2D) |
 
 ---
 
