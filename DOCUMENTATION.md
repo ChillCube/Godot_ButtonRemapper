@@ -13,6 +13,7 @@ This addon is used for remapping buttons. It can be used for allowing the player
 ## Class: smoothButtonRemapperButton
 **Inherits:** [SmoothButton](https://github.com/ChillCube/Godot_SpriteBasedSmoothMenuButton2D.git/blob/main/DOCUMENTATION.md)
 
+This is the same as the other button remapper button, but it is based on a different UI system, rather than godots inbuilt UI control nodes.
 
 ---
 

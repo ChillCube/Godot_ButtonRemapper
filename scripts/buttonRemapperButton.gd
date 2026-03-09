@@ -1,3 +1,4 @@
+## This is the same as the other button remapper button, but it is based on a different UI system, rather than godots inbuilt UI control nodes.
 @tool
 extends SmoothButton
 class_name smoothButtonRemapperButton
