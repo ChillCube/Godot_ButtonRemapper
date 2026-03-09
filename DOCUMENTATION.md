@@ -3,6 +3,13 @@ Generated: 2026-03-09
 
 This addon is used for remapping buttons. It can be used for allowing the player to edit the input settings
 
+### 📦 Dependencies
+
+| Source | Reference | Repository |
+| :--- | :--- | :--- |
+
+---
+
 ## Class: smoothButtonRemapperButton
 **Inherits:** [SmoothButton](https://github.com/ChillCube/Godot_SpriteBasedSmoothMenuButton2D/blob/main/DOCUMENTATION.md)
 
