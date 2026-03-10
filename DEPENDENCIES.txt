@@ -1,5 +1,5 @@
 # --- Automated Dependencies (Managed by Script) ---
 
-# --- Manual Dependencies (Do Not Delete) ---
+# --- Manual Dependencies ---
 https://github.com/ChillCube/Godot_SpriteBasedSmoothMenuButton2D
 https://github.com/ChillCube/Godot_SmoothMovement.git
